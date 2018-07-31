@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 /**
  * Class Fornecedores
  * @package App\Models
- * @version June 16, 2018, 11:21 pm UTC
+ * @version June 29, 2018, 5:10 pm UTC
  */
 class Fornecedores extends Model
 {

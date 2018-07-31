@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 /**
  * Class Funcionarios
  * @package App\Models
- * @version June 16, 2018, 10:59 pm UTC
+ * @version June 29, 2018, 5:10 pm UTC
  */
 class Funcionarios extends Model
 {
@@ -22,7 +22,7 @@ class Funcionarios extends Model
 
 
     protected $dates = ['deleted_at'];
-*/
+    */
 
     public $fillable = [
         'nome',
